@@ -1,0 +1,866 @@
+[
+    {
+        "event_id": 45,
+        "title": "Flutter Festival Pakistan",
+        "bannerImage": "images/events/Flutter-Festival-Pakistan.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "FRI, MAR 11, 2022 - SUN MAR 13, 2022",
+        "start_date": "11-03-2022",
+        "end_date": "13-03-2022",
+        "link": "https://web.facebook.com/events/501309278042660/",
+        "speakers": [
+            {
+                "name": "Talal Athar",
+                "speachTitle": "The Power of Product Design",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/talalathar/",
+                "video": "https://www.youtube.com/watch?v=dGvQn_zFHWU"
+            },
+            {
+                "name": "Abu Anwar MD Abdullah",
+                "speachTitle": "Flutter and sound Null Safety",
+                "image": "images/speakers/abuanwar.jpeg",
+                "contact": "https://www.linkedin.com/in/abuanwar072/",
+                "video": "https://www.youtube.com/watch?v=8C-oeuZU7Jc"
+            },
+            {
+                "name": "Tarek Alabd",
+                "speachTitle": "Testing in Flutter",
+                "image": "images/speakers/tarikalabd.jpeg",
+                "contact": "https://www.linkedin.com/in/tarekalabd/",
+                "video": "https://www.youtube.com/watch?v=jFM9H88qdOw"
+            },
+            {
+                "name": "Shang Yi LIM",
+                "speachTitle": "Build Better Apps with Firebase",
+                "image": "images/speakers/ShangYiLim.jpeg",
+                "contact": "https://www.linkedin.com/in/shang-yi-lim/",
+                "video": "https://www.youtube.com/watch?v=0BHeP9cqBlo"
+            },
+            {
+                "name": "Roman Jacquez",
+                "speachTitle": "Flutter + Google Cloud: A Match made in heaven",
+                "image": "images/speakers/ShangYiLim.jpeg",
+                "contact": "https://www.linkedin.com/in/roman-jaquez-8941a424/",
+                "video": "https://www.youtube.com/watch?v=WvkUFf6NalI"
+            },
+            {
+                "name": "Lukas Klingsbo",
+                "speachTitle": "Game Develeopment with Flutter",
+                "image": "images/speakers/ShangYiLim.jpeg",
+                "contact": "https://www.linkedin.com/in/spydon/",
+                "video": "https://www.youtube.com/watch?v=i_f5Vs2TSTU"
+            }
+        ]
+    },
+    {
+        "event_id": 44,
+        "title": "DevFest GDG Live Pakistan",
+        "bannerImage": "images/events/DevFest-GDG-Live-Pakistan.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "FRI, DEC 10, 2021 - SUN, DEC 12, 2021",
+        "start_date": "10-12-2021",
+        "end_date": "10-12-2021",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 43,
+        "title": "AndroidSeekho Information Session",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, OCT 24, 2021",
+        "start_date": "24-10-2021",
+        "end_date": "24-10-2021",
+        "link": "https://web.facebook.com/events/218058183726362/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 42,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 41,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 40,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 39,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 38,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 37,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 36,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 35,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 34,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 33,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 32,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 31,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 30,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 29,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 28,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 27,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 26,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 25,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 24,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 23,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 22,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 21,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 20,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 19,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 12,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 18,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 17,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 16,
+        "title": "In conversation with Nabeel Qadeer",
+        "bannerImage": "images/events/in_conversation_with_nabeel_qadeer.jpeg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "08-05-2020",
+        "end_date": "08-05-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Nabeel Qadeer",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 15,
+        "title": "Get started with Hyperparameter Tuning with AI Platform in GCP",
+        "bannerImage": "images/events/get_started_with_hyperparameter_tuning_with_ai_platform_in_gcp.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, MAY 3, 2020",
+        "start_date": "03-05-2020",
+        "end_date": "03-05-2020",
+        "link": "https://web.facebook.com/events/222808772340776/",
+        "speakers": [
+            {
+                "name": "Imran us Salam",
+                "image": "images/speakers/ImranusSalam.jpg",
+                "contact": "https://www.linkedin.com/in/imran-us-salam-mian-54a48897/",
+                "video": "https://fb.watch/ci8Z7P6oxc/"
+            }
+        ]
+    },
+    {
+        "event_id": 14,
+        "title": "Be the best candidate - Hacking your way into global programs",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SAT, MAY 2, 2020",
+        "start_date": "02-05-2020",
+        "end_date": "02-05-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Fatima Moin",
+                "image": "images/speakers/fatimamoin.jpg",
+                "contact": "https://twitter.com/fatimaamoin",
+                "video": "https://fb.watch/ci8bD1845T/"
+            }
+        ]
+    },
+    {
+        "event_id": 13,
+        "title": "How To Build Your Personal Brand Online",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "FRI, MAY 1, 2020",
+        "start_date": "01-05-2020",
+        "end_date": "01-05-2020",
+        "link": "https://web.facebook.com/events/539887126673507/",
+        "speakers": [
+            {
+                "name": "Salman Saeed",
+                "image": "images/speakers/salmansaeed.jpeg",
+                "contact": "https://www.linkedin.com/in/salluhee/",
+                "video": "https://www.facebook.com/GDGPK/videos/683073422440899/"
+            }
+        ]
+    },
+    {
+        "event_id": 12,
+        "title": "What does it take to be a DSC Lead",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 26, 2020",
+        "start_date": "26-04-2020",
+        "end_date": "26-04-2020",
+        "link": "https://web.facebook.com/events/236980667373534/",
+        "speakers": [
+            {
+                "name": "Shahzeb Kazmi",
+                "image": "images/speakers/shahzebkazmi.jpeg",
+                "contact": "https://www.linkedin.com/in/shahzebkazmi/",
+                "video": "https://www.youtube.com/watch?v=bAzZJMCNjrU"
+            }
+        ]
+    },
+    {
+        "event_id": 11,
+        "title": "Getting technical with Technical Writing",
+        "bannerImage": "images/events/getting-technical-with-technical-writing.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SAT, APR 25, 2020",
+        "start_date": "25-04-2020",
+        "end_date": "25-04-2020",
+        "link": "https://web.facebook.com/events/220355512714143/",
+        "speakers": [
+            {
+                "name": "Bushra Mustafa",
+                "image": "images/speakers/bushramustafa.jpeg",
+                "contact": "https://www.linkedin.com/in/bushramustafa94/",
+                "video": "https://www.youtube.com/watch?v=yZ48L4QCn9g"
+            }
+        ]
+    },
+    {
+        "event_id": 10,
+        "title": "Workerized JS Made Easy with AMP",
+        "bannerImage": "images/events/workerized-js-made-easy-with-amp.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "FRI, APR 24, 2020",
+        "start_date": "24-04-2020",
+        "end_date": "24-04-2020",
+        "link": "https://web.facebook.com/events/769578193573371/",
+        "speakers": [
+            {
+                "name": "Ben Morss",
+                "image": "images/speakers/benmorss.jpeg",
+                "contact": "https://www.linkedin.com/in/ben-morss-15bab15/",
+                "video": "https://www.youtube.com/watch?v=9gbjzJAZLWI"
+            }
+        ]
+    },
+    {
+        "event_id": 9,
+        "title": "Daily Life of a Program Manager in E-commerce",
+        "bannerImage": "images/events/daily-life-of-a-program-manager-in-ecommerce.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SUN, APR 19, 2020",
+        "start_date": "19-04-2020",
+        "end_date": "19-04-2020",
+        "link": "https://web.facebook.com/events/237026600833339/",
+        "speakers": [
+            {
+                "name": "Adeel Saya",
+                "image": "images/speakers/adeelsaya.jpeg",
+                "contact": "https://www.linkedin.com/in/adeelsaya/",
+                "video": "https://www.youtube.com/watch?v=HUyX-qbImnU"
+            }
+        ]
+    },
+    {
+        "event_id": 8,
+        "title": "Exhausted working from home? Here's what you're doing wrong",
+        "bannerImage": "images/events/Exhausted-working-from-home-Heres-what-you-re-doing-wrong.jpg",
+        "eventType": "GDG Live Pakistan - Online event",
+        "date": "SAT, APR 18, 2020",
+        "start_date": "18-04-2020",
+        "end_date": "18-04-2020",
+        "link": "https://web.facebook.com/events/2547750755489768/",
+        "speakers": [
+            {
+                "name": "M. (Mohammad Nasrullah) Nash",
+                "image": "images/speakers/M-Mohammad-Nasrullah-Nash.jpeg",
+                "contact": "https://www.linkedin.com/in/monash/",
+                "video": "https://www.youtube.com/watch?v=Kv4wfdfGhJg"
+            }
+        ]
+    },
+    {
+        "event_id": 7,
+        "title": "Big Questions with the Big Bird",
+        "bannerImage": "images/events/Big-Questions-with-the-Big-Bird.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "FRI, APR 17, 2020",
+        "start_date": "17-04-2020",
+        "end_date": "17-04-2020",
+        "link": "https://web.facebook.com/events/1865716843560962/",
+        "speakers": [
+            {
+                "name": "Jehan Ara",
+                "image": "images/speakers/jehan-ara.jpeg",
+                "contact": "https://www.linkedin.com/in/jehanara/",
+                "video": "https://www.youtube.com/watch?v=P7a3xoS3mrQ"
+            }
+        ]
+    },
+    {
+        "event_id": 6,
+        "title": "Reading between the lines: how to interpret data",
+        "bannerImage": "images/events/State-management-dilemma-in-Flutter-by-waleed-arshad.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "SUN, APR 12, 2020",
+        "start_date": "12-04-2020",
+        "end_date": "12-04-2020",
+        "link": "https://web.facebook.com/events/510072416303701/",
+        "speakers": [
+            {
+                "name": "Ans Khurram",
+                "image": "images/speakers/anskhurram.jpeg",
+                "contact": "https://www.linkedin.com/in/ans-khurram/",
+                "video": "https://www.youtube.com/watch?v=Km_3VKWJxbQ"
+            }
+        ]
+    },
+    {
+        "event_id": 5,
+        "title": "Implementing MVVM Architecture in Android",
+        "bannerImage": "images/events/Implementing-MVVM-Architecture-in-Android.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "SAT, APR 11, 2020",
+        "start_date": "11-04-2020",
+        "end_date": "11-04-2020",
+        "link": "https://web.facebook.com/events/264781211198858/",
+        "speakers": [
+            {
+                "name": "Wajahat Karim",
+                "image": "images/speakers/aimansaeed.jpeg",
+                "contact": "https://www.linkedin.com/in/wajahatkarim/",
+                "video": "https://www.youtube.com/watch?v=0_Ww0pnTlHc"
+            }
+        ]
+    },
+    {
+        "event_id": 4,
+        "title": "Build yourself while you build communities",
+        "bannerImage": "images/events/Build-yourself-while-you-build-communities.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "FRI, APR 10, 2020",
+        "start_date": "10-04-2020",
+        "end_date": "10-04-2020",
+        "link": "https://web.facebook.com/events/2589505404629377/",
+        "speakers": [
+            {
+                "name": "Aiman Saeed",
+                "image": "images/speakers/aimansaeed.jpeg",
+                "contact": "https://www.linkedin.com/in/aimansaeed/",
+                "video": "https://www.youtube.com/watch?v=zS8UzNVLn1Q"
+            }
+        ]
+    },
+    {
+        "event_id": 3,
+        "title": "Programming for Kids and Newbies",
+        "bannerImage": "images/events/Programming-for-Kids-and-Newbies.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "SUN, APR 5, 2020",
+        "start_date": "05-04-2020",
+        "end_date": "05-04-2020",
+        "link": "https://web.facebook.com/events/650388909093385/",
+        "speakers": [
+            {
+                "name": "Tahir Ramzan",
+                "image": "images/speakers/Tahir-Ramzan.jpeg",
+                "contact": "https://www.linkedin.com/in/tahirramzan/",
+                "video": "https://www.youtube.com/watch?v=OMm9AmbGim4"
+            }
+        ]
+    },
+    {
+        "event_id": 2,
+        "title": "From Prototype to Pitching",
+        "bannerImage": "images/events/From-Prototype-to-Pitching-by-Krinzamomin.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "SAT, APRIL 4, 2020",
+        "start_date": "04-04-2020",
+        "end_date": "04-04-2020",
+        "link": "https://web.facebook.com/events/518006368817863/",
+        "speakers": [
+            {
+                "name": "Krinza Momin",
+                "image": "images/speakers/krinza-momin.jpeg",
+                "contact": "https://www.linkedin.com/in/krinza-momin/",
+                "video": "https://www.youtube.com/watch?v=G7qrOsIebh0"
+            }
+        ]
+    },
+    {
+        "event_id": 1,
+        "title": "State management dilemma in Flutter",
+        "bannerImage": "images/events/State-management-dilemma-in-Flutter-by-waleed-arshad.jpg",
+        "eventType": "GDG Live Pakistan - Facebook Live",
+        "date": "FRI, APR 3, 2020",
+        "start_date": "03-04-2020",
+        "end_date": "03-04-2020",
+        "link": "https://web.facebook.com/events/501309278042660/",
+        "speakers": [
+            {
+                "name": "Waleed Arshad",
+                "image": "images/speakers/waleed-arshad.jpeg",
+                "contact": "https://www.linkedin.com/in/waleed006/",
+                "video": "https://www.youtube.com/watch?v=Xf1x8_gyMoE"
+            }
+        ]
+    }
+]
