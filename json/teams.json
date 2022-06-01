@@ -18,7 +18,7 @@
         "profileImage": "images/team/ahmad-khan.png",
         "Designation": "Co-manager @GDG Live Pakistan / Mobile App Dev (Flutter)",
         "company": "Cross Code",
-        "linkedin": "https://www.linkedin.com/in/rmahmadkhan/"
+        "linkedin": "https://linkedin.com/in/rmahmadkhan/"
     },
     {
         "name": "Ghania Munawar",
@@ -32,21 +32,21 @@
         "profileImage": "images/team/muhammad-anwar.png",
         "Designation": "Python Developer",
         "company": "Fiverr",
-        "linkedin": "https://www.linkedin.com/in/mmohamed-anwar/"
+        "linkedin": "http://www.linkedin.com/in/mmohamed-anwar"
     },
     {
         "name": "Muhammad Farhan",
         "profileImage": "images/team/muhammad-farhan.png",
         "Designation": "Campus Lead",
         "company": "RemotebaseRemotebase",
-        "linkedin": "https://www.linkedin.com/in/iammuhammadfarhan/"
+        "linkedin": "https://www.linkedin.com/in/iammuhammadfarhan"
     },
     {
         "name": "Ali Azaz",
         "profileImage": "images/team/ali-azaz.png",
         "Designation": "Designation",
         "company": "Compnay Name",
-        "linkedin": "https://www.linkedin.com/company/gdglivepakistan/"
+        "linkedin": "https://www.linkedin.com/in/aliazazalam/"
     },
     {
         "name": "Javeed Ishaq",
